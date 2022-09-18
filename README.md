@@ -5,6 +5,7 @@ Ein 2D Kicker Spiel, das mit Pygame gemacht ist. Das is ein mini projekt, das an
 Steuerung:
 
 |Beschreibung|1. Spieler|2. Spieler|
+|---|---|---|
 |Stick wechseln|a|left arrow|
 |Stickwechseln|d|right arrow|
 |Figur nach oben schieben|w|up arrow|
